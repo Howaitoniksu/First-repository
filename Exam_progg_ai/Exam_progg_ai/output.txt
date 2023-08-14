@@ -1,0 +1,6 @@
+Triangle 1:
+ Type: Obtuse triangle.
+Triangle 2:
+ Type: Obtuse triangle.
+Triangle 3:
+ Type: Acute triangle.

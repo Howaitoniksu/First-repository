@@ -1,0 +1,2 @@
+C:\Users\Computer\source\repos\Exam_progg_ai\x64\Debug\Exam_progg_ai.exe.lastcodeanalysissucceeded
+C:\Users\Computer\source\repos\Exam_progg_ai\Exam_progg_ai\x64\Debug\NativeCodeAnalysis.read.1.tlog
